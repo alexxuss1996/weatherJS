@@ -1,1 +1,1 @@
-# Small weather app with openweathermap API
+# Small weather app with Apixu API
